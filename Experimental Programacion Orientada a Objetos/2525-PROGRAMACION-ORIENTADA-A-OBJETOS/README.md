@@ -157,7 +157,7 @@ Este proyecto es parte del material educativo de la Universidad Estatal Amazóni
 
 - **Estudiante:** Edwin Ismar Armijos Flores
 - **Email:** [eiarmijosf@uea.edu.ec]
-- **Repositorio:** https://github.com/[tu-usuario]/POO-Dashboard-Edwin-Armijos
+- **Repositorio:** https://github.com/Isyeday03/POO-Dashboard-Edwin-Armijos
 
 ---
 
